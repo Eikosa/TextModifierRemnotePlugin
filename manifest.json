@@ -1,0 +1,20 @@
+{
+  "manifestVersion": 1,
+  "id": "text_modifier",
+  "name": "Text Modifier",
+  "author": "remnote",
+  "repoUrl": "You can quickly change the letters of the selected text",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  },
+  "description": "",
+  "requestNative": false,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "ReadCreateModify"
+    }
+  ]
+}
